@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/132188504.svg)](https://zenodo.org/badge/latestdoi/132188504)
+
 # Yolo-v3 and Yolo-v2 for Windows and Linux
 ### (neural network for object detection)
 
